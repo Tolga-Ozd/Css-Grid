@@ -9,7 +9,7 @@ margin: 0;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 150px 100px 1fr 100px;
     text-align: center;
-    align-items: center;
+    /* align-items: center; */
     
 }
 
